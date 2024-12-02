@@ -5,8 +5,8 @@ import { motion } from 'framer-motion';
 
 const testimonials = [
   {
-    name: 'John Doe',
-    role: 'Plant Manager',
+    name: 'Emmalyne Aluso',
+    role: 'Technical Founder',
     image: 'path/to/john-image.jpg',
     stars: 5,
     feedback:
